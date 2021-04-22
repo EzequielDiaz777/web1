@@ -1,0 +1,5 @@
+th, td, tr, table{
+	table-layout: fixed;
+	border-style: solid;
+}
+
